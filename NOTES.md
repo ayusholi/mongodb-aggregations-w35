@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-08-25T13:00:02.218Z
+Session: 2026-08-25T13:00:02.218Z
 
-## Progress
+## Summary
 
-- add end-to-end test suite
+- correct type mismatch in data models
