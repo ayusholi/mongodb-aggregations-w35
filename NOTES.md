@@ -1,12 +1,7 @@
 # Notes
 
-## Overview
+Last updated: 2026-08-25T13:00:02.218Z
 
-Work in progress.
+## Progress
 
-## TODO
-
-- [ ] Define requirements
-- [ ] Implement core functionality
-- [ ] Add tests
-- [ ] Write documentation
+- add end-to-end test suite
