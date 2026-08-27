@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- correct date parsing for different locales
-- Updated: 2026-08-27T13:00:01.536Z
+- correct off-by-one error in loop
+- Build: 2026-08-27T13:00:01.536Z
