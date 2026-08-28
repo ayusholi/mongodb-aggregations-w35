@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- correct off-by-one error in loop
-- Build: 2026-08-27T13:00:01.536Z
+- implement error handling middleware
+- Updated: 2026-08-28T13:00:01.143Z
