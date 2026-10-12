@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-08-28T13:00:01.143Z
+Last updated: 2026-10-12T13:00:00.889Z
 
-## Summary
+## Progress
 
-- mock external dependencies in tests
+- use dependency injection pattern
