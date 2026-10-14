@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-10-12T13:00:00.889Z
+Last updated: 2026-10-14T13:00:01.332Z
 
 ## Progress
 
-- use dependency injection pattern
+- handle null pointer exception
