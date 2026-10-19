@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add integration tests for API endpoints
-- Updated: 2026-10-17T13:00:00.833Z
+- implement pagination for list endpoints
+- Updated: 2026-10-19T13:00:01.299Z
