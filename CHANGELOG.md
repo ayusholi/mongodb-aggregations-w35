@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- correct date parsing for different locales
-- Updated: 2026-10-20T13:00:01.115Z
+- add environment variable support
+- Updated: 2026-10-23T13:00:01.399Z
